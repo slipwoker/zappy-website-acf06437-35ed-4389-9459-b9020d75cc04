@@ -2512,25 +2512,12 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   display: block;
 }
 
-/* Scrim Overlay */
 .index-hero-section .index-hero-scrim {
   position: absolute;
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  background-image:
-    linear-gradient(
-      to left,
-      rgba(46, 41, 37, 0.72) 0%,
-      rgba(46, 41, 37, 0.55) 35%,
-      rgba(46, 41, 37, 0.18) 65%,
-      rgba(46, 41, 37, 0.05) 100%
-    ),
-    linear-gradient(
-      to bottom,
-      rgba(46, 41, 37, 0.05) 0%,
-      rgba(46, 41, 37, 0.35) 100%
-    );
+  background-image: linear-gradient(to left, rgba(0,0,0,0.55) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0.10) 65%, rgba(0,0,0,0.02) 100%), linear-gradient(to bottom, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.25) 100%);
 }
 
 /* Botanical Decoration */
@@ -2557,17 +2544,16 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   min-height: 100vh;
 }
 
-/* Hero Card */
 .index-hero-section .index-hero-card {
-  background-color: rgba(242, 233, 221, 0.88);
+  background-color: rgba(255,255,255,0.92);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
-  border: 1px solid rgba(228, 216, 201, 0.7);
+  border: 1px solid rgba(0,0,0,0.12);
   border-radius: 16px;
   padding: 48px 44px;
   max-width: 480px;
   width: 100%;
-  box-shadow: 0 12px 48px rgba(100, 70, 50, 0.18), 0 2px 12px rgba(100, 70, 50, 0.06);
+  box-shadow: 0 12px 48px rgba(0,0,0,0.18);
   text-align: right;
   direction: rtl;
   position: relative;
@@ -2598,17 +2584,16 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   letter-spacing: -0.01em;
 }
 
-/* Poetic Verse */
 .index-hero-section .index-hero-verse {
   font-family: 'Rubik', sans-serif;
   font-size: 1.1rem;
   font-weight: 400;
   font-style: italic;
   line-height: 1.75;
-  color: #5A4A42;
+  color: #333333;
   margin: 0 0 20px 0;
   text-align: right;
-  border-inline-start: 2px solid rgba(201, 123, 99, 0.35);
+  border-inline-start: 2px solid rgba(0,0,0,0.25);
   padding-inline-start: 16px;
 }
 
@@ -2619,12 +2604,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   margin: 0 0 20px 0;
 }
 
-/* Body Text */
 .index-hero-section .index-hero-body {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem !important;
   line-height: 1.75;
-  color: #5A4A42;
+  color: #333333;
   margin: 0 0 32px 0;
   text-align: right;
 }
@@ -2640,10 +2624,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   direction: rtl;
 }
 
-/* Primary CTA */
 .index-hero-section .index-hero-btn-primary {
   display: inline-block;
-  background-color: var(--accent);
+  background-color: #111111;
   color: #FFFFFF;
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
@@ -2655,7 +2638,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   text-decoration: none;
   cursor: pointer;
   transition: background 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
-  box-shadow: 0 6px 28px rgba(100, 70, 50, 0.08);
+  box-shadow: 0 6px 28px rgba(0,0,0,0.2);
   white-space: nowrap;
 }
 
@@ -2665,18 +2648,17 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   transform: translateY(-2px);
 }
 
-/* Secondary CTA */
 .index-hero-section .index-hero-btn-secondary {
   display: inline-block;
   background: transparent;
-  color: var(--text-dark);
+  color: #111111;
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
   font-weight: 500;
   letter-spacing: 0.04em;
   padding: 13px 28px;
   border-radius: 8px;
-  border: 1.5px solid rgba(46, 41, 37, 0.4);
+  border: 1.5px solid rgba(0,0,0,0.4);
   text-decoration: none;
   cursor: pointer;
   transition: background 0.25s ease, border-color 0.25s ease, transform 0.2s ease;
@@ -2796,15 +2778,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 }
 
-/* index-collections-overview */
 .index-collections-overview-section {
   position: relative;
   overflow: visible;
-  background-color: #FAF6F2;
-  background-image:
-    radial-gradient(ellipse at 80% 20%, rgba(201,123,99,0.05) 0%, transparent 55%),
-    radial-gradient(ellipse at 20% 80%, rgba(184,149,106,0.07) 0%, transparent 55%),
-    linear-gradient(180deg, #F2E9DD 0%, #FAF6F2 60%, #F5EFE9 100%);
+  background-color: #FFFFFF;
+  background-image: none;
   color: var(--text-dark);
   direction: rtl;
   padding: 96px 24px 110px;
@@ -2889,12 +2867,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   align-items: start;
 }
 
-/* Cards */
 .index-collections-overview-section .ico-collection-card {
   background: #FFFFFF;
   border-radius: 16px;
-  border: 1px solid rgba(180,150,130,0.25);
-  box-shadow: 0 6px 28px rgba(100,70,50,0.08);
+  border: 1px solid #DDDDDD;
+  box-shadow: 0 6px 28px rgba(0,0,0,0.08);
   overflow: hidden;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   display: flex;
@@ -3138,15 +3115,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 }
 
-/* index-benefits */
 .index-benefits-section {
   position: relative;
   overflow: visible;
   background-color: #111111;
-  background-image:
-    radial-gradient(ellipse at 10% 20%, rgba(201,123,99,0.07) 0%, transparent 55%),
-    radial-gradient(ellipse at 90% 80%, rgba(201,123,99,0.05) 0%, transparent 50%),
-    linear-gradient(180deg, #2E2925 0%, #231F1B 100%);
+  background-image: none;
   color: var(--text-light);
   padding: 96px 24px 130px;
   direction: rtl;

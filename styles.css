@@ -12619,6 +12619,75 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   border-radius: 14px !important;
   overflow: hidden !important;
 }
+
+.featured-categories-section {
+  padding: 60px 24px !important;
+  background: #FAF6F2 !important;
+}
+
+.featured-categories-section .category-blocks,
+.featured-categories-section #zappy-featured-categories {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+  gap: 24px !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+}
+
+.featured-categories-section .category-block,
+.featured-categories-section .category-card,
+.featured-categories-section [class*="category-item"],
+.featured-categories-section #zappy-featured-categories > div,
+.featured-categories-section #zappy-featured-categories > a {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  aspect-ratio: 1 / 1 !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+  position: relative !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12) !important;
+  transition: transform 0.25s ease, box-shadow 0.25s ease !important;
+}
+
+.featured-categories-section .category-block:hover,
+.featured-categories-section .category-card:hover,
+.featured-categories-section #zappy-featured-categories > div:hover,
+.featured-categories-section #zappy-featured-categories > a:hover {
+  transform: translateY(-4px) !important;
+  box-shadow: 0 10px 36px rgba(0,0,0,0.18) !important;
+}
+
+.featured-categories-section .category-block img,
+.featured-categories-section .category-card img,
+.featured-categories-section #zappy-featured-categories img {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+.featured-categories-section .category-block .category-name,
+.featured-categories-section .category-card .category-name,
+.featured-categories-section .category-block h3,
+.featured-categories-section .category-card h3,
+.featured-categories-section #zappy-featured-categories h3,
+.featured-categories-section #zappy-featured-categories .category-title,
+.featured-categories-section #zappy-featured-categories span {
+  position: relative !important;
+  z-index: 2 !important;
+  color: var(--background-color) !important;
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  text-align: center !important;
+  padding: 16px !important;
+  width: 100% !important;
+  background: linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

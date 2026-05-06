@@ -12429,6 +12429,84 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   --gradient-gold-accent: linear-gradient(135deg, #333333 0%, #666666 100%) !important;
   --shadow-btn-hover: 0 8px 24px rgba(0,0,0,0.28) !important;
 }
+
+.index-collections-overview-section .ico-collections-grid {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 2px !important;
+  max-width: 800px !important;
+  margin: 0 auto !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 0 !important;
+  background: #fff !important;
+  border-bottom: 1px solid #e8e0d8 !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+  margin-top: 0 !important;
+  padding: 0 !important;
+  min-height: unset !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-figure {
+  width: 120px !important;
+  min-width: 120px !important;
+  height: 100px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  flex-shrink: 0 !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-figure img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-body {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 0 28px !important;
+  flex: 1 !important;
+  gap: 16px !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-title {
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+  margin: 0 !important;
+  color: var(--text-dark) !important;
+  letter-spacing: 0.01em !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-link {
+  font-size: 0.85rem !important;
+  color: var(--text-muted) !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+  letter-spacing: 0.02em !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-link:hover {
+  color: var(--text-dark) !important;
+}
+
+.index-collections-overview-section .ico-card-tall,
+.index-collections-overview-section .ico-card-offset-top,
+.index-collections-overview-section .ico-card-offset-bottom,
+.index-collections-overview-section .ico-card-end-offset {
+  grid-column: unset !important;
+  grid-row: unset !important;
+  margin-top: 0 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

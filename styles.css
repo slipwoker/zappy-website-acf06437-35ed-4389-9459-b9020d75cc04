@@ -12507,6 +12507,118 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   grid-row: unset !important;
   margin-top: 0 !important;
 }
+
+.index-collections-overview-section .ico-collections-grid {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0 !important;
+  max-width: 780px !important;
+  margin: 0 auto !important;
+  border: 1px solid #e8e0d8 !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 0 !important;
+  background: #fff !important;
+  border-bottom: 1px solid #ede6de !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  transition: background 0.2s ease !important;
+  cursor: pointer !important;
+  text-decoration: none !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean:last-child {
+  border-bottom: none !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean:hover {
+  background: #faf6f2 !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-figure {
+  width: 110px !important;
+  min-width: 110px !important;
+  height: 90px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  flex-shrink: 0 !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-figure img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+  transition: transform 0.35s ease !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean:hover .ico-card-figure img {
+  transform: scale(1.06) !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-body {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 0 28px !important;
+  flex: 1 !important;
+  gap: 16px !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-title {
+  font-size: 1.1rem !important;
+  font-weight: 500 !important;
+  margin: 0 !important;
+  color: #111 !important;
+  letter-spacing: 0.01em !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  font-size: 0.82rem !important;
+  color: #B8956A !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+  letter-spacing: 0.03em !important;
+  font-weight: 500 !important;
+  border: 1px solid #d4b896 !important;
+  padding: 6px 14px !important;
+  border-radius: 20px !important;
+  transition: background 0.2s ease, color 0.2s ease !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-link:hover {
+  background: #B8956A !important;
+  color: #fff !important;
+  border-color: #B8956A !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-link {
+  color: #111 !important;
+}
+
+.index-collections-overview-section .ico-collection-card.ico-card-clean .ico-card-title {
+  color: #B8956A !important;
+}
+
+.index-collections-overview-section .ico-collections-grid {
+  margin-right: auto !important;
+  margin-left: auto !important;
+  border: 1px solid #e8e0d8 !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

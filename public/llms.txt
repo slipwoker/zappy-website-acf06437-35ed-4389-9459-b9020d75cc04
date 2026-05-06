@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://fix-acf06437.zappy5.app
+https://example.com
 מטפחות לאישה דתייה ברמה אחרת לגמרי. בין אם את מחפשת כותנה יומיומית, ריקמה עדינה או מטפחת ערב, FIX מטפחות מביאה לך אלגנטיות עם צניעות. גלי עכשיו.
 
 ### סיפור הקולקציות
-https://fix-acf06437.zappy5.app/collections-story
+https://example.com/collections-story
 כל קולקציה ב־FIX מטפחות מספרת סיפור. מבדי מיקס יומיומיים ועד מטפחות ערב לכלה דתייה — גלי את עולם הצבעים, הרקמות והבדים שנבחרו בקפידה עבורך.
 
 ### סיפור המותג
-https://fix-acf06437.zappy5.app/brand-story
+https://example.com/brand-story
 FIX מטפחות נוצר מתוך חזון: לתת לאישה הדתייה מטפחת שמשלבת רוחניות, סגנון ואיכות ללא פשרות. הכירי את הסיפור שמאחורי המותג שמגדיר מחדש את האופנה הדתית.
 
 ### צור קשר
-https://fix-acf06437.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על מידות, בדים או הזמנה מיוחדת? צוות FIX מטפחות כאן בשבילך. צרי קשר עוד היום ונעזור לך למצוא את המטפחת המושלמת לכל אירוע ולכל יום.
 
 ### Products
-https://fix-acf06437.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - FIX מטפחות
 
 ### Cart
-https://fix-acf06437.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://fix-acf06437.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://fix-acf06437.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://fix-acf06437.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://fix-acf06437.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://fix-acf06437.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - FIX מטפחות
 
 ### Category
-https://fix-acf06437.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - FIX מטפחות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fix-acf06437.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fix-acf06437.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fix-acf06437.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ A premium head covering and tichel (hair scarf) brand targeting religious Jewish
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fix-acf06437.zappy5.app/sitemap.xml
-- Robots: https://fix-acf06437.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fix-acf06437.zappy5.app/llms-full.txt
-- Products (JSON): https://fix-acf06437.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fix-acf06437.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

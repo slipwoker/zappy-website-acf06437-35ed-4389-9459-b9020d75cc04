@@ -2,13 +2,13 @@
 
 A premium head covering and tichel (hair scarf) brand targeting religious Jewish women. The brand exudes elegance and modesty with a clean, high-end aesthetic in white tones with black accents. The website opens with a poetic verse (שירה), setting a refined and spiritual tone. Product categories include blended fabrics, everyday cotton, embroidered cotton, and evening scarves — suggesting a range from casual daily wear to special occasion pieces.
 
-Source: https://fix-acf06437.zappy5.app
+Source: https://example.com
 
 ---
 
 ## FIX מטפחות — FIX מטפחות
 
-URL: https://fix-acf06437.zappy5.app
+URL: https://example.com
 Description: מטפחות לאישה דתייה ברמה אחרת לגמרי. בין אם את מחפשת כותנה יומיומית, ריקמה עדינה או מטפחת ערב, FIX מטפחות מביאה לך אלגנטיות עם צניעות. גלי עכשיו.
 
 FIX מטפחות — FIX מטפחות
@@ -539,7 +539,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## קולקציות שנולדו מתוך שירה ויופי — FIX מטפחות
 
-URL: https://fix-acf06437.zappy5.app/collections-story
+URL: https://example.com/collections-story
 Description: כל קולקציה ב־FIX מטפחות מספרת סיפור. מבדי מיקס יומיומיים ועד מטפחות ערב לכלה דתייה — גלי את עולם הצבעים, הרקמות והבדים שנבחרו בקפידה עבורך.
 
 קולקציות שנולדו מתוך שירה ויופי — FIX מטפחות
@@ -1139,7 +1139,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## המותג שהפך צניעות לאמנות — FIX מטפחות
 
-URL: https://fix-acf06437.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: FIX מטפחות נוצר מתוך חזון: לתת לאישה הדתייה מטפחת שמשלבת רוחניות, סגנון ואיכות ללא פשרות. הכירי את הסיפור שמאחורי המותג שמגדיר מחדש את האופנה הדתית.
 
 המותג שהפך צניעות לאמנות — FIX מטפחות
@@ -1661,7 +1661,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## דברי איתנו ותמצאי את המטפחת שחיכית לה — FIX מטפחות
 
-URL: https://fix-acf06437.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על מידות, בדים או הזמנה מיוחדת? צוות FIX מטפחות כאן בשבילך. צרי קשר עוד היום ונעזור לך למצוא את המטפחת המושלמת לכל אירוע ולכל יום.
 
 דברי איתנו ותמצאי את המטפחת שחיכית לה — FIX מטפחות
@@ -2232,7 +2232,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## מוצרים
 
-URL: https://fix-acf06437.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - FIX מטפחות
 
 מוצרים - FIX מטפחות
@@ -2482,7 +2482,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## עגלת קניות
 
-URL: https://fix-acf06437.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - FIX מטפחות
@@ -2708,7 +2708,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## תשלום
 
-URL: https://fix-acf06437.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - FIX מטפחות
@@ -3117,7 +3117,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## התחברות
 
-URL: https://fix-acf06437.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - FIX מטפחות
@@ -3350,7 +3350,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## החשבון שלי
 
-URL: https://fix-acf06437.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - FIX מטפחות
@@ -3738,7 +3738,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## ההזמנה התקבלה!
 
-URL: https://fix-acf06437.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - FIX מטפחות
@@ -3988,7 +3988,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## מדיניות החזרות
 
-URL: https://fix-acf06437.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - FIX מטפחות
@@ -4267,7 +4267,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## פרטי המוצר
 
-URL: https://fix-acf06437.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - FIX מטפחות
 
 פרטי המוצר - FIX מטפחות
@@ -4495,7 +4495,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## מוצרים
 
-URL: https://fix-acf06437.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - FIX מטפחות
 
 מוצרים - FIX מטפחות
@@ -4747,7 +4747,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## מדיניות פרטיות
 
-URL: https://fix-acf06437.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5018,7 +5018,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## הצהרת נגישות
 
-URL: https://fix-acf06437.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5298,7 +5298,7 @@ FIX מטפחות נולד מתוך אהבה לפרטים הקטנים — לבד
 
 ## תנאי שימוש
 
-URL: https://fix-acf06437.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
